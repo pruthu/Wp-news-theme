@@ -1,0 +1,883 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Arsene\n"
+"POT-Creation-Date: 2013-03-03 20:12+0700\n"
+"PO-Revision-Date: 2013-03-03 20:12+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:12
+msgid "Error 404 - Not found."
+msgstr ""
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:16
+msgid "Sorry, but you are looking for something that isn&rsquo;t here."
+msgstr ""
+
+#: ../404.php:18
+msgid "Go back to homepage"
+msgstr ""
+
+#: ../comments.php:33
+msgid "<i class=\"icon-arrow-left\"></i> Older Comments"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Newer Comments <i class=\"icon-arrow-right\"></i>"
+msgstr ""
+
+#: ../comments.php:46
+msgid "Comments are closed."
+msgstr ""
+
+#: ../functions.php:10
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:11
+msgid "Top Menu"
+msgstr ""
+
+#: ../functions.php:21
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../functions.php:30
+msgid "Homepage Sidebar"
+msgstr ""
+
+#: ../functions.php:32
+msgid "Front Page sidebar. Leave blank if using Default Sidebar."
+msgstr ""
+
+#: ../functions.php:40
+msgid "Single Sidebar"
+msgstr ""
+
+#: ../functions.php:42
+msgid "Single post sidebar. Leave blank if using Default Sidebar."
+msgstr ""
+
+#: ../functions.php:50
+msgid "Single Bottom Sidebar"
+msgstr ""
+
+#: ../functions.php:52
+msgid "After single post sidebar."
+msgstr ""
+
+#: ../functions.php:60
+msgid "Page Sidebar"
+msgstr ""
+
+#: ../functions.php:62
+msgid "Sidebar for all pages. Leave blank if using Default Sidebar."
+msgstr ""
+
+#: ../functions.php:70
+msgid "Footer Sidebar"
+msgstr ""
+
+#: ../functions.php:72
+msgid "Drag and drop widgets here (max. 4 widgets)."
+msgstr ""
+
+#: ../header.php:16
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../header.php:133
+msgid "Menu"
+msgstr ""
+
+#: ../no-results.php:6
+msgid "Nothing found for: "
+msgstr ""
+
+#: ../no-results.php:8
+msgid "Nothing Found"
+msgstr ""
+
+#: ../no-results.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../no-results.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../no-results.php:21
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../page-allarchives.php:40 ../includes/components/blog-1.php:29
+#: ../includes/components/blog-2.php:21 ../includes/components/blog-3.php:21
+#: ../includes/components/blog-4.php:20 ../includes/components/blog-5.php:14
+#: ../includes/components/blog-6.php:14 ../includes/components/blog-7.php:25
+#: ../includes/components/blog-8.php:14
+#: ../includes/components/popular-post-carousel.php:35
+#: ../includes/page-builder/block-archive-slider.php:79
+#: ../includes/page-builder/block-post-slider.php:113
+#: ../includes/widgets/widget-tabber.php:220
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../page-contact.php:10
+msgid "Please enter your name."
+msgstr ""
+
+#: ../page-contact.php:17
+msgid "Please enter your email address."
+msgstr ""
+
+#: ../page-contact.php:20
+msgid "You entered an invalid email address."
+msgstr ""
+
+#: ../page-contact.php:27
+msgid "Please enter a message."
+msgstr ""
+
+#: ../page-contact.php:85
+msgid "Thank you! Your message has been successfully sent."
+msgstr ""
+
+#: ../page-contact.php:90
+msgid "Name"
+msgstr ""
+
+#: ../page-contact.php:98
+msgid "Email"
+msgstr ""
+
+#: ../page-contact.php:110
+msgid "Message"
+msgstr ""
+
+#: ../page-contact.php:117
+msgid "Send Message"
+msgstr ""
+
+#: ../page-contact.php:127 ../page-fullwidth.php:34 ../page-sitemap.php:84
+#: ../page.php:36 ../single.php:62
+msgid "<i class=\"icon-edit\"></i>&nbsp; Edit this"
+msgstr ""
+
+#: ../page-sitemap.php:42
+msgid "Authors"
+msgstr ""
+
+#: ../page-sitemap.php:49
+msgid "Pages"
+msgstr ""
+
+#: ../page-sitemap.php:56
+msgid "Posts"
+msgstr ""
+
+#: ../search.php:24
+msgid "Search Results: "
+msgstr ""
+
+#: ../single.php:71
+msgid "About the author"
+msgstr ""
+
+#: ../single.php:75
+msgid "Browse all posts by "
+msgstr ""
+
+#: ../single.php:98
+msgid "Related Posts"
+msgstr ""
+
+#: ../includes/post-meta.php:55
+#, php-format
+msgid ""
+"<div class=\"post-meta\"><time class=\"post-date\" datetime=\"%1$s\">%2$s</"
+"time> by <a class=\"tip post-author\" href=\"%3$s\" title=\"%4$s\" rel="
+"\"author\">%5$s</a></div>"
+msgstr ""
+
+#: ../includes/post-meta.php:59
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../includes/post-meta.php:63
+#, php-format
+msgid ""
+"<div class=\"post-meta\"><time class=\"post-date\" datetime=\"%1$s\">%2$s</"
+"time> by <span class=\"post-author\">%3$s</span></div>"
+msgstr ""
+
+#: ../includes/post-meta.php:82
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: ../includes/post-meta.php:98
+msgid "No Comments"
+msgstr ""
+
+#: ../includes/post-meta.php:100
+msgid " Comments"
+msgstr ""
+
+#: ../includes/post-meta.php:102
+msgid "1 Comment"
+msgstr ""
+
+#: ../includes/post-meta.php:155
+msgid "Pingback:"
+msgstr ""
+
+#: ../includes/post-meta.php:155
+msgid "(Edit)"
+msgstr ""
+
+#: ../includes/post-meta.php:165
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../includes/post-meta.php:168
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../includes/post-meta.php:174
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../includes/post-meta.php:183
+msgid "<i class=\"icon-edit\"></i> Edit"
+msgstr ""
+
+#: ../includes/admin/classes/class.options_machine.php:469
+msgid "Last Backup : "
+msgstr ""
+
+#: ../includes/admin/classes/class.options_machine.php:540
+msgid "Upload"
+msgstr ""
+
+#: ../includes/admin/front-end/options.php:43
+#: ../includes/admin/front-end/options.php:67
+msgid "Save All Changes"
+msgstr ""
+
+#: ../includes/admin/front-end/options.php:68
+msgid "Options Reset"
+msgstr ""
+
+#: ../includes/admin/functions/functions.mediauploader.php:20
+msgid "Options"
+msgstr ""
+
+#: ../includes/admin/functions/functions.mediauploader.php:210
+msgid "Gallery"
+msgstr ""
+
+#: ../includes/admin/functions/functions.mediauploader.php:210
+msgid "Previously Uploaded"
+msgstr ""
+
+#: ../includes/components/breadcrumb.php:12
+msgid "<i class=\"icon-home\"></i>"
+msgstr ""
+
+#: ../includes/components/breadcrumb.php:13
+#, php-format
+msgid "Archive by Category \"%s\""
+msgstr ""
+
+#: ../includes/components/breadcrumb.php:14
+#, php-format
+msgid "Search Results for \"%s\" Query"
+msgstr ""
+
+#: ../includes/components/breadcrumb.php:15
+#, php-format
+msgid "Posts Tagged \"%s\""
+msgstr ""
+
+#: ../includes/components/breadcrumb.php:16
+#, php-format
+msgid "Articles Posted by %s"
+msgstr ""
+
+#: ../includes/components/breadcrumb.php:17
+msgid "Error 404"
+msgstr ""
+
+#: ../includes/components/breadcrumb.php:130
+msgid "Page"
+msgstr ""
+
+#: ../includes/components/news-ticker.php:8
+msgid "Breaking News"
+msgstr ""
+
+#: ../includes/components/review-post.php:23
+msgid "Review Overview"
+msgstr ""
+
+#: ../includes/components/review-post.php:40
+msgid "Overall:"
+msgstr ""
+
+#: ../includes/components/social-share.php:7
+msgid "Share"
+msgstr ""
+
+#: ../includes/metaboxes/editor-picks-metabox.php:12
+#: ../includes/metaboxes/editor-picks-metabox.php:27
+msgid "Editor Picks"
+msgstr ""
+
+#: ../includes/metaboxes/review-metabox.php:7
+msgid "Review"
+msgstr ""
+
+#: ../includes/metaboxes/review-metabox.php:14
+msgid "Criteria Name"
+msgstr ""
+
+#: ../includes/metaboxes/review-metabox.php:15
+msgid "Enter review criteria name"
+msgstr ""
+
+#: ../includes/metaboxes/review-metabox.php:21
+msgid "Score"
+msgstr ""
+
+#: ../includes/metaboxes/review-metabox.php:22
+msgid "Enter criteria score"
+msgstr ""
+
+#: ../includes/metaboxes/review-metabox.php:30
+msgid "Review Text"
+msgstr ""
+
+#: ../includes/metaboxes/review-metabox.php:31
+msgid "Review result text ex: Excellent, Good, Bad"
+msgstr ""
+
+#: ../includes/metaboxes/review-metabox.php:37
+msgid "Review Summary/Description"
+msgstr ""
+
+#: ../includes/metaboxes/review-metabox.php:38
+msgid "Review summary description"
+msgstr ""
+
+#: ../includes/page-builder/block-300-ads.php:35
+#: ../includes/page-builder/block-728-ads.php:35
+#: ../includes/page-builder/block-archive-slider.php:32
+#: ../includes/page-builder/block-blog-post.php:45
+#: ../includes/page-builder/block-news-box.php:32
+#: ../includes/page-builder/block-post-slider.php:34
+#: ../includes/page-builder/block-post-thumb.php:30
+msgid "Title (optional)"
+msgstr ""
+
+#: ../includes/page-builder/block-300-ads.php:42
+#: ../includes/page-builder/block-728-ads.php:42
+msgid "Advertisement Link (use http://)"
+msgstr ""
+
+#: ../includes/page-builder/block-300-ads.php:50
+#: ../includes/page-builder/block-728-ads.php:50
+msgid "Target Link"
+msgstr ""
+
+#: ../includes/page-builder/block-300-ads.php:64
+#: ../includes/page-builder/block-728-ads.php:64
+msgid "Advertisement Banner Image URL (use http://)"
+msgstr ""
+
+#: ../includes/page-builder/block-300-ads.php:72
+#: ../includes/page-builder/block-728-ads.php:72
+msgid "Advertisement custom code"
+msgstr ""
+
+#: ../includes/page-builder/block-archive-popular.php:30
+#: ../includes/page-builder/block-news-box.php:39
+#: ../includes/page-builder/block-post-thumb.php:37
+msgid "Number Posts"
+msgstr ""
+
+#: ../includes/page-builder/block-archive-popular.php:59
+#: ../includes/page-builder/block-archive-popular.php:61
+#: ../includes/page-builder/block-archive-popular.php:67
+#: ../includes/page-builder/block-archive-popular.php:69
+#: ../includes/page-builder/block-archive-popular.php:71
+#, php-format
+msgid "Popular: %s"
+msgstr ""
+
+#: ../includes/page-builder/block-archive-popular.php:64
+#, php-format
+msgid "Popular by %s"
+msgstr ""
+
+#: ../includes/page-builder/block-archive-popular.php:73
+msgid "Popular"
+msgstr ""
+
+#: ../includes/page-builder/block-archive-slider.php:39
+#: ../includes/page-builder/block-post-slider.php:41
+msgid "Number of posts"
+msgstr ""
+
+#: ../includes/page-builder/block-archive-slider.php:46
+#: ../includes/page-builder/block-post-slider.php:71
+msgid "Select slider style"
+msgstr ""
+
+#: ../includes/page-builder/block-archive-slider.php:48
+#: ../includes/page-builder/block-blog-post.php:61
+#: ../includes/page-builder/block-news-box.php:63
+#: ../includes/page-builder/block-post-slider.php:73
+msgid "Style 1"
+msgstr ""
+
+#: ../includes/page-builder/block-archive-slider.php:49
+#: ../includes/page-builder/block-blog-post.php:62
+#: ../includes/page-builder/block-news-box.php:64
+#: ../includes/page-builder/block-post-slider.php:74
+msgid "Style 2"
+msgstr ""
+
+#: ../includes/page-builder/block-archive.php:31
+msgid "Archive Posts Style"
+msgstr ""
+
+#: ../includes/page-builder/block-archive.php:70
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../includes/page-builder/block-archive.php:72
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../includes/page-builder/block-archive.php:78
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../includes/page-builder/block-archive.php:85
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../includes/page-builder/block-archive.php:87
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../includes/page-builder/block-archive.php:89
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../includes/page-builder/block-archive.php:91
+msgid "Archives"
+msgstr ""
+
+#: ../includes/page-builder/block-blog-post.php:52
+msgid "Posts per page"
+msgstr ""
+
+#: ../includes/page-builder/block-blog-post.php:59
+msgid "Select blog style"
+msgstr ""
+
+#: ../includes/page-builder/block-blog-post.php:63
+#: ../includes/page-builder/block-news-box.php:65
+msgid "Style 3"
+msgstr ""
+
+#: ../includes/page-builder/block-blog-post.php:64
+#: ../includes/page-builder/block-news-box.php:66
+msgid "Style 4"
+msgstr ""
+
+#: ../includes/page-builder/block-blog-post.php:71
+msgid "Display Post Excerpt?"
+msgstr ""
+
+#: ../includes/page-builder/block-container.php:21
+#: ../includes/page-builder/block-container.php:42
+msgid "Drag block items into this container box"
+msgstr ""
+
+#: ../includes/page-builder/block-news-box.php:46
+#: ../includes/page-builder/block-post-slider.php:48
+msgid "Select category"
+msgstr ""
+
+#: ../includes/page-builder/block-news-box.php:51
+#: ../includes/page-builder/block-post-slider.php:53
+msgid "Select Category"
+msgstr ""
+
+#: ../includes/page-builder/block-news-box.php:61
+msgid "Select News Box Style"
+msgstr ""
+
+#: ../includes/page-builder/block-post-slider.php:64
+msgid "Post IDs, separate by commas."
+msgstr ""
+
+#: ../includes/page-builder/block-post-slider.php:66
+msgid ""
+"Enter the post id or leave blank if you select the category field above."
+msgstr ""
+
+#: ../includes/widgets/widget-about.php:9
+msgid "Mini about us"
+msgstr ""
+
+#: ../includes/widgets/widget-about.php:11
+msgid "Arsene About Us"
+msgstr ""
+
+#: ../includes/widgets/widget-about.php:48
+#: ../includes/widgets/widget-ads-125x125.php:63
+#: ../includes/widgets/widget-ads-300x250.php:54
+#: ../includes/widgets/widget-editor-picks.php:42
+#: ../includes/widgets/widget-fb-likebox.php:54
+#: ../includes/widgets/widget-feedburner.php:54
+#: ../includes/widgets/widget-flickr.php:54
+#: ../includes/widgets/widget-popular-posts.php:42
+#: ../includes/widgets/widget-recent-comments.php:42
+#: ../includes/widgets/widget-recent-posts.php:42
+#: ../includes/widgets/widget-social.php:96
+#: ../includes/widgets/widget-tabber.php:103
+#: ../includes/widgets/widget-tagcloud.php:46
+#: ../includes/widgets/widget-twitter.php:62
+msgid "Title:"
+msgstr ""
+
+#: ../includes/widgets/widget-about.php:51
+msgid "Logo Image URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-about.php:54
+msgid "Introduction Text:"
+msgstr ""
+
+#: ../includes/widgets/widget-about.php:56
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: ../includes/widgets/widget-ads-125x125.php:10
+msgid "Displays 125x125 Advertisements."
+msgstr ""
+
+#: ../includes/widgets/widget-ads-125x125.php:11
+msgid "Arsene 125x125 Ads"
+msgstr ""
+
+#: ../includes/widgets/widget-ads-125x125.php:67
+msgid "Ads 1 Link URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads-125x125.php:70
+msgid "Ads 1 Banner Image URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads-125x125.php:74
+msgid "Ads 2 Link URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads-125x125.php:77
+msgid "Ads 2 Banner Image URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads-125x125.php:81
+msgid "Ads 3 Link URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads-125x125.php:84
+msgid "Ads 3 Banner Image URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads-125x125.php:88
+msgid "Ads 4 Link URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads-125x125.php:91
+msgid "Ads 4 Banner Image URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads-300x250.php:10
+msgid "Displays 300x250 Advertisement."
+msgstr ""
+
+#: ../includes/widgets/widget-ads-300x250.php:11
+msgid "Arsene 300x250 Ads"
+msgstr ""
+
+#: ../includes/widgets/widget-ads-300x250.php:57
+msgid "Advertisement Link URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-ads-300x250.php:60
+msgid "Advertisement banner Image URL :"
+msgstr ""
+
+#: ../includes/widgets/widget-editor-picks.php:10
+msgid "Displays Editor Picks posts."
+msgstr ""
+
+#: ../includes/widgets/widget-editor-picks.php:11
+msgid "Arsene Editor Picks"
+msgstr ""
+
+#: ../includes/widgets/widget-editor-picks.php:45
+#: ../includes/widgets/widget-popular-posts.php:45
+#: ../includes/widgets/widget-recent-posts.php:45
+msgid "Number of posts to display:"
+msgstr ""
+
+#: ../includes/widgets/widget-fb-likebox.php:10
+msgid "Displays FB Likebox."
+msgstr ""
+
+#: ../includes/widgets/widget-fb-likebox.php:11
+msgid "Arsene FB Likebox"
+msgstr ""
+
+#: ../includes/widgets/widget-fb-likebox.php:57
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-fb-likebox.php:60
+msgid "Show Faces"
+msgstr ""
+
+#: ../includes/widgets/widget-fb-likebox.php:62
+msgid "Show Stream"
+msgstr ""
+
+#: ../includes/widgets/widget-fb-likebox.php:64
+msgid "Show Header"
+msgstr ""
+
+#: ../includes/widgets/widget-fb-likebox.php:66
+msgid "Color Scheme:"
+msgstr ""
+
+#: ../includes/widgets/widget-feedburner.php:10
+msgid "Displays Feedburner email subscription."
+msgstr ""
+
+#: ../includes/widgets/widget-feedburner.php:11
+msgid "Arsene Feedburner"
+msgstr ""
+
+#: ../includes/widgets/widget-feedburner.php:57
+msgid "Introduction text:"
+msgstr ""
+
+#: ../includes/widgets/widget-feedburner.php:60
+msgid "Feedburner ID:"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:10
+msgid "Displays Flickr photostream."
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:11
+msgid "Arsene Flickr"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:57
+msgid "Flickr ID:"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:60
+msgid "Number of Photos:"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:63
+msgid "Type (user or group):"
+msgstr ""
+
+#: ../includes/widgets/widget-flickr.php:71
+msgid "Display (random or latest):"
+msgstr ""
+
+#: ../includes/widgets/widget-popular-posts.php:10
+msgid "Displays most popular posts by comment."
+msgstr ""
+
+#: ../includes/widgets/widget-popular-posts.php:11
+msgid "Arsene Popular Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-recent-comments.php:10
+msgid "Displays most recent comments."
+msgstr ""
+
+#: ../includes/widgets/widget-recent-comments.php:11
+msgid "Arsene Recent Comments"
+msgstr ""
+
+#: ../includes/widgets/widget-recent-comments.php:45
+msgid "Number of comments to display:"
+msgstr ""
+
+#: ../includes/widgets/widget-recent-posts.php:10
+msgid "Displays most recent posts."
+msgstr ""
+
+#: ../includes/widgets/widget-recent-posts.php:11
+msgid "Arsene Recent Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:10
+msgid "Displays social media counter."
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:11
+msgid "Arsene Social Counter"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:29
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:40
+#: ../includes/widgets/widget-social.php:51
+msgid "Follow us on Facebook"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:62
+msgid "Subscribe our RSS/Feed"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:99
+msgid "Facebook Page Username:"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:102
+#: ../includes/widgets/widget-twitter.php:65
+msgid "Twitter Username:"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:105
+msgid "Google+ ID:"
+msgstr ""
+
+#: ../includes/widgets/widget-social.php:108
+msgid "Full RSS URL:"
+msgstr ""
+
+#: ../includes/widgets/widget-tabber.php:10
+msgid "Displays tabber: Popular posts, recent posts, recent comments and tags."
+msgstr ""
+
+#: ../includes/widgets/widget-tabber.php:11
+msgid "Arsene Tabber"
+msgstr ""
+
+#: ../includes/widgets/widget-tabber.php:31
+msgid "Recent Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-tabber.php:32
+msgid "Popular Posts"
+msgstr ""
+
+#: ../includes/widgets/widget-tabber.php:33
+msgid "Recent Comments"
+msgstr ""
+
+#: ../includes/widgets/widget-tabber.php:34
+msgid "Tags"
+msgstr ""
+
+#: ../includes/widgets/widget-tabber.php:106
+msgid "Number posts display in Popular Posts tab:"
+msgstr ""
+
+#: ../includes/widgets/widget-tabber.php:109
+msgid "Number posts display in Recent Posts tab:"
+msgstr ""
+
+#: ../includes/widgets/widget-tabber.php:112
+msgid "Number comments display in Recent Comments tab:"
+msgstr ""
+
+#: ../includes/widgets/widget-tabber.php:115
+msgid "Number tags item display in Tags tab:"
+msgstr ""
+
+#: ../includes/widgets/widget-tabber.php:118
+msgid "Display popular posts?"
+msgstr ""
+
+#: ../includes/widgets/widget-tabber.php:120
+msgid "Display recent posts?"
+msgstr ""
+
+#: ../includes/widgets/widget-tabber.php:122
+msgid "Display recent comments?"
+msgstr ""
+
+#: ../includes/widgets/widget-tabber.php:124
+msgid "Display tags?"
+msgstr ""
+
+#: ../includes/widgets/widget-tagcloud.php:10
+msgid "Displays tagcloud."
+msgstr ""
+
+#: ../includes/widgets/widget-tagcloud.php:11
+msgid "Arsene Tagcloud"
+msgstr ""
+
+#: ../includes/widgets/widget-tagcloud.php:49
+msgid "Number of tags to display:"
+msgstr ""
+
+#: ../includes/widgets/widget-tagcloud.php:52
+msgid "Order by:"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:10
+msgid "Displays Tweets."
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:11
+msgid "Arsene Twitter"
+msgstr ""
+
+#: ../includes/widgets/widget-twitter.php:68
+msgid "Number of tweets:"
+msgstr ""
